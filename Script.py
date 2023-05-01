@@ -194,7 +194,7 @@ Nᴀᴍᴇ - {}"""
 <code>{file_name}</code> [𝐉𝐨𝐢𝐧  🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬"""
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {query}
+<b>🚨 Requested Movie Name: {query}
 💁 Requested By: {message.from_user.mention}
 
 🏷 Title: <a href={url}>{title}</a>
