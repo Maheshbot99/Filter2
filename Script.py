@@ -194,14 +194,13 @@ Nᴀᴍᴇ - {}"""
 <code>{file_name}</code> [𝐉𝐨𝐢𝐧  🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬"""
 
     IMDB_TEMPLATE_TXT = """
+<b>Query: {query}
+IMDb Data:
+
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-☀️ Languages: {languages}
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
-💁 Requested By: {message.from_user.mention}
-
-📤 Uploaded By: {chat}"""
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
