@@ -279,10 +279,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM !", callback_data=f"send_fall#files#{offset}")
-    ])
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("⭕️ ᕼOᗯ TO ᗪOᗯᑎᒪOᗩᗪ ⭕️",url="https://t.me/Cinema_Rockets/292")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1494,11 +1491,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM !", callback_data=f"send_fall#{pre}#{0}")
-    ])
-
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("⭕️ ᕼOᗯ TO ᗪOᗯᑎᒪOᗩᗪ ⭕️",url="https://t.me/Cinema_Rockets/292")
     ])
 
     if offset != "":
