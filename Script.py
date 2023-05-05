@@ -191,7 +191,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<code>{file_name}</code> [𝐉𝐨𝐢𝐧  🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬"""
+<code>{file_name}</code> 𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🚨 Requested Movie Name: {query}
