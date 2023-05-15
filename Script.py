@@ -7,15 +7,15 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='http://t.me/Mahi_458'>ᴍᴀʜᴇꜱʜ ꜱ</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://t.me/Cinema_Rockets'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_Rockets'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_Rockets'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-✯ ᴜᴩᴅᴀᴛᴇꜱ: <a href='https://t.me/Cinema_Rockets'>ᴄʜᴀɴɴᴇʟ</a>
+✯ Lɪʙʀᴀʀʏ: <a href='https://t.me/Cinema_HDHub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_HDHub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_HDHub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ ᴜᴩᴅᴀᴛᴇꜱ: <a href='https://t.me/Cinema_HDHub'>ᴄʜᴀɴɴᴇʟ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Cinema_Rockets">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Cinema_HDHub">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/MaHi_458">ᴍᴀʜᴇꜱʜ ꜱ</a></b>"""
 
@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Cinema_Rockets)</code>
+<code>[Button Text](buttonurl:https://t.me/Cinema_HDHub)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <code>{file_name}</code>
-𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬"""
+𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_HDHub) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🚨 Requested Movie Name: {query}
