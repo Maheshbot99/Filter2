@@ -11,6 +11,7 @@ async def upgrade(bot,update):
 <b>➥ ғᴏʀᴍᴀᴛ ↓↓↓</b>
 <b>/set_shortner SʜᴏʀᴛɴᴇʀSɪᴛᴇ SʜᴏʀᴛɴᴇʀAᴘɪ</b>
 
+<b>➥ ɢᴏ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴅᴏ ᴛʜɪꜱ</b>
 
 <b>➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓</b>
 <code>/set_shortner mdisklink.link 48c239abf799bfcd27ac2c26a6698e895bc6d543</code>
@@ -30,6 +31,7 @@ async def upgradecm(bot,message):
 <b>➥ ғᴏʀᴍᴀᴛ ↓↓↓</b>
 <b>/set_shortner SʜᴏʀᴛɴᴇʀSɪᴛᴇ SʜᴏʀᴛɴᴇʀAᴘɪ</b>
 
+<b>➥ ɢᴏ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴅᴏ ᴛʜɪꜱ</b>
 
 <b>➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓</b>
 <code>/set_shortner mdisklink.link 48c239abf799bfcd27ac2c26a6698e895bc6d543</code>
