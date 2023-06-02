@@ -9,12 +9,12 @@ async def upgrade(bot,update):
 <b>➥ Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Cᴏɴɴᴇᴄᴛ Yᴏᴜʀ Oᴡɴ Sʜᴏʀᴛɴᴇʀ Tʜᴇɴ Jᴜsᴛ Sᴇɴᴅ Tʜᴇ Gɪᴠᴇɴ Dᴇᴛᴀɪʟs Iɴ Cᴏʀʀᴇᴄᴛ Fᴏʀᴍᴀᴛ Iɴ  Yᴏᴜʀ Gʀᴏᴜᴘ.</b>
 
 <b>➥ ғᴏʀᴍᴀᴛ ↓↓↓</b>
-<b>/set_shortner SʜᴏʀᴛɴᴇʀSɪᴛᴇ SʜᴏʀᴛɴᴇʀAᴘɪ</b>
+<b>/shortlink SʜᴏʀᴛɴᴇʀSɪᴛᴇ SʜᴏʀᴛɴᴇʀAᴘɪ</b>
 
 <b>➥ ɢᴏ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴅᴏ ᴛʜɪꜱ</b>
 
 <b>➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓</b>
-<code>/set_shortner mdisklink.link 48c239abf799bfcd27ac2c26a6698e895bc6d543</code>
+<code>/shortlink mdisklink.link 48c239abf799bfcd27ac2c26a6698e895bc6d543</code>
 
 <b>☢ ɴᴏᴛᴇ : ʏᴏᴜ sʜᴏᴜʟᴅ ɴᴏᴛ ʙᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ. sᴇɴᴅ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ʙᴇɪɴɢ ᴀɴ ᴀɴᴏɴʏᴍᴜs ᴀᴅᴍɪɴ.</b>"""
 	keybord = InlineKeyboardMarkup([[ 
@@ -29,12 +29,12 @@ async def upgradecm(bot,message):
 <b>➥ Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Cᴏɴɴᴇᴄᴛ Yᴏᴜʀ Oᴡɴ Sʜᴏʀᴛɴᴇʀ Tʜᴇɴ Jᴜsᴛ Sᴇɴᴅ Tʜᴇ Gɪᴠᴇɴ Dᴇᴛᴀɪʟs Iɴ Cᴏʀʀᴇᴄᴛ Fᴏʀᴍᴀᴛ Iɴ  Yᴏᴜʀ Gʀᴏᴜᴘ.</b>
 
 <b>➥ ғᴏʀᴍᴀᴛ ↓↓↓</b>
-<b>/set_shortner SʜᴏʀᴛɴᴇʀSɪᴛᴇ SʜᴏʀᴛɴᴇʀAᴘɪ</b>
+<b>/shortlink SʜᴏʀᴛɴᴇʀSɪᴛᴇ SʜᴏʀᴛɴᴇʀAᴘɪ</b>
 
 <b>➥ ɢᴏ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴅᴏ ᴛʜɪꜱ</b>
 
 <b>➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓</b>
-<code>/set_shortner mdisklink.link 48c239abf799bfcd27ac2c26a6698e895bc6d543</code>
+<code>/shortlink mdisklink.link 48c239abf799bfcd27ac2c26a6698e895bc6d543</code>
 
 <b>☢ ɴᴏᴛᴇ : ʏᴏᴜ sʜᴏᴜʟᴅ ɴᴏᴛ ʙᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ. sᴇɴᴅ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ʙᴇɪɴɢ ᴀɴ ᴀɴᴏɴʏᴍᴜs ᴀᴅᴍɪɴ.</b>"""
 	keybord = InlineKeyboardMarkup([[ 
