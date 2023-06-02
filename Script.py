@@ -7,15 +7,15 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='http://t.me/Mahi_458'>ᴍᴀʜᴇꜱʜ ꜱ</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://t.me/Cinema_HDHub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_HDHub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_HDHub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-✯ ᴜᴩᴅᴀᴛᴇꜱ: <a href='https://t.me/Cinema_HDHub'>ᴄʜᴀɴɴᴇʟ</a>
+✯ Lɪʙʀᴀʀʏ: <a href='https://t.me/Cinema_Rockets'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/MsMovieRequests'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_Rockets'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ ᴜᴩᴅᴀᴛᴇꜱ: <a href='https://t.me/MsMovieRequests'>ᴄʜᴀɴɴᴇʟ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Cinema_HDHub">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Cinema_Rockets">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/MaHi_458">ᴍᴀʜᴇꜱʜ ꜱ</a></b>"""
 
