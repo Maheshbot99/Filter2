@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Cinema_HDHub)</code>
+<code>[Button Text](buttonurl:https://t.me/Cinema_Rockets)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <code>{file_name}</code>
-𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬"""
+<b>𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🚨 Requested Movie Name: {query}
