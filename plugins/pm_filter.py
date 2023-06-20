@@ -279,7 +279,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/Cinema_Rockets")
+        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/Cinema_Rockets/292")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -580,7 +580,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                            ],[
-                              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/MaHi_458")
+                              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/CrazyXBoTsBot")
                              ]
                             ]
                         )
@@ -1272,7 +1272,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/MaHi_458")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/CrazyXBoTsBot"")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1491,7 +1491,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/Cinema_Rockets")
+        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/Cinema_Rockets/292")
     ])
 
     if offset != "":
