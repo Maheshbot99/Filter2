@@ -6,18 +6,18 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='http://t.me/Mahi_458'>ᴍᴀʜᴇꜱʜ ꜱ</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://t.me/Cinema_Rockets'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='http://t.me/KicchaFanMaHi'>ᴍᴀʜᴇꜱʜ ꜱ</a>
+✯ Lɪʙʀᴀʀʏ: <a href='https://t.me/NewCinemaClub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/MsMovieRequests'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/Cinema_Rockets'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+✯ ᴍᴏᴠɪᴇꜱ: <a href='https://t.me/NewCinemaClub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ✯ ᴜᴩᴅᴀᴛᴇꜱ: <a href='https://t.me/MsMovieRequests'>ᴄʜᴀɴɴᴇʟ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Cinema_Rockets">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/NewCinemaClub">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/MaHi_458">ᴍᴀʜᴇꜱʜ ꜱ</a></b>"""
+- <a href="https://t.me/KicchaFanMaHi">ᴍᴀʜᴇꜱʜ ꜱ</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Cinema_Rockets)</code>
+<code>[Button Text](buttonurl:https://t.me/NewCinemaClub)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -149,8 +149,8 @@ Nᴀᴍᴇ - {}"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴍᴀʜᴇꜱʜ ꜱ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @MaHi_458
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/MaHi_458'>ᴍᴀʜᴇꜱʜ ꜱ</a></b>"""
+• ᴜꜱᴇʀɴᴀᴍᴇ : @KicchaFanMaHi
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/KicchaFanMaHi'>ᴍᴀʜᴇꜱʜ ꜱ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <code>{file_name}</code>
-<b>𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/Cinema_Rockets) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬</b>"""
+<b>𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/NewCinemaClub) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🚨 Requested Movie Name: {query}
@@ -201,7 +201,8 @@ Nᴀᴍᴇ - {}"""
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
+💥 Credit: @NewCinemaClub</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
