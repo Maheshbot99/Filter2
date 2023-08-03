@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <code>{file_name}</code>
-<b>𝐉𝐨𝐢𝐧  [🍿 𝙽𝙴𝚆 𝙷𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 🍿](https://t.me/NewCinemaClub) 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞𝐬</b>"""
+<b>𝐉𝐨𝐢𝐧 @NewCinemaClub 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐌𝐨𝐯𝐢𝐞</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🚨 Requested Movie Name: {query}
@@ -201,8 +201,7 @@ Nᴀᴍᴇ - {}"""
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
-💥 Credit: @NewCinemaClub</b>"""
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 </b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
