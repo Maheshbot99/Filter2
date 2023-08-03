@@ -1,6 +1,6 @@
 from pyrogram import Client, filters, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup 
-from config import ADMINS
+from config import ADMIN
  
 
 @Client.on_message(filters.command("start") & filters.private)                             
